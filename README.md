@@ -1,4 +1,4 @@
-#Data Visualize project in Python Crash Course
+# Data Visualize project in Python Crash Course
 
 1. Chapter 15:
 - What is data visualization
